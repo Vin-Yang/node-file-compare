@@ -1,0 +1,13 @@
+{
+  "name": "file-compare",
+  "version": "0.0.1",
+  "description": "File comparison tool",
+  "main": "lib/index.js",
+  "scripts": {},
+  "author": "Gabor Pihaj <gabor.pihaj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "buffertools": "^2.1.2"
+  }
+}
