@@ -2,9 +2,12 @@
   "name": "file-compare",
   "version": "0.0.1",
   "description": "File comparison tool",
+  "keyword" : "file, compare, cmp",
   "main": "lib/index.js",
   "scripts": {},
   "author": "Gabor Pihaj <gabor.pihaj@gmail.com>",
+  "homepage" : "https://github.com/voidcontext/node-file-compare",
+  "repository" : "https://github.com/voidcontext/node-file-compare.git",
   "license": "MIT",
   "dependencies": {
     "async": "^0.9.0",
