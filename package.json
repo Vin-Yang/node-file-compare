@@ -1,7 +1,7 @@
 {
-  "name": "file-compare",
+  "name": "file-cmp",
   "version": "0.0.1",
-  "description": "File comparison tool",
+  "description": "File comparison tool - without creating checksums",
   "keyword" : "file, compare, cmp",
   "main": "lib/index.js",
   "scripts": {},
